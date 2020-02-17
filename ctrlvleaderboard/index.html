@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="styles.css">
+        <link href="https://fonts.googleapis.com/css?family=Orbitron&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Days+One&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="datepicker.min.css">
+
+    </head>
+    <body onload="SortByScore()" style="background-color: black">
+        <video id="beatSaberVideo"  playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+            <source src="assets/BeatSaberVideo.mp4" type="video/mp4">
+        </video>
+        <script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-analytics.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-database.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.js"></script>
+        <script src="jquery-3.4.1.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="daterangepicker.css" />
+        <Center>
+
+            <div id="main">
+                <button onclick="sortByStaff()" id="staffButton">STAFF</button>
+
+            <div>
+
+                <img src="assets/beatsaber.png" id="beatsaberimg">
+            </div>
+            <button onclick="allScores()" id="sortButton">ALL SCORES</button>
+            <input type="text" name="datefilter" value="" placeholder="Select Date Range" />
+            <button onclick="sortByToday()" id="sortButton">TODAY</button>
+            <div>
+                <!-- <select id="songDropdown" onchange="">
+                    <option value="hide">-- Filter By Song --</option>
+                </select>
+                <select id="diffDropdown">
+                    <option value="hide">-- Filter By Difficulty --</option>
+                </select> -->
+            </div>
+
+            <div id="list">
+
+            </div>
+            <div id="Bottom"></div>
+        </div>
+        </Center>
+        <script src="app.js"></script>
+        <script src="moment.js"></script>
+        <script>
+            moment().format();
+        </script>
+<script type="text/javascript">
+
+</script>
+
+    </body>
+</html>
