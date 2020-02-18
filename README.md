@@ -26,3 +26,11 @@
 1. Download this installer
 2. open on Arcade PC
 3. press install
+------------
+## Step 3: Local Server Setup (Optional)
+### You can use these files and host them however you want, but for local hosting i found this to be the best way.
+1. Download XAMPP
+2. You only need to download the Apache service
+2. open XAMPP_Control.exe
+3. click on the "Config" Button next to admin and logs
+4. Choose the httpd.conf file and search DocumentRoot and change the directory to the ctrlvleaderboard location
