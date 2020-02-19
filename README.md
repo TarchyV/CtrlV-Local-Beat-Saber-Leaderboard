@@ -19,8 +19,8 @@
 ------------
 ## Step 2: Registration PC Setup
 1.download this repository
-2. inside both FirebaseContents.config folders(ctrlvleaderboard/firebaseContents.config,ctrlvleaderboard/Arcade PC/firebaseContents.config) input your firebase credentials inside:
-it should look like this:
+1. inside both FirebaseContents.config folders(ctrlvleaderboard/firebaseContents.config,ctrlvleaderboard/Arcade PC/firebaseContents.config) input your firebase credentials inside: 
+1. it should look like this:
 ```
 AIzaSyDsluvxARYqfABbe5-????????bzw
 ctrlvleaderboard.firebaseapp.com
