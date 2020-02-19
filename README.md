@@ -23,9 +23,9 @@
 3. click install
 ------------
 ## Step 3: Arcade PC Setup
-1. Download this installer
-2. open on Arcade PC
-3. press install
+1. Inside Registration PC ctrlVLeaderboard folder, copy the file "Arcade PC" onto a USB drive or Google drive
+2. On the Arcade PC's drop the file into Users/%UserName%/Leaderboard 
+3. When beatsaber is running this file will grab the scores
 ------------
 ## Step 3: Local Server Setup (Optional)
 ### You can use these files and host them however you want, but for local hosting i found this to be the best way.
