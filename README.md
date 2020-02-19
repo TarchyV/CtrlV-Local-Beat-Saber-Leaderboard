@@ -21,7 +21,7 @@
 1.download this repository
 2. inside both FirebaseContents.config folders(ctrlvleaderboard/firebaseContents.config,ctrlvleaderboard/Arcade PC/firebaseContents.config) input your firebase credentials inside:
 it should look like this:
-
+```
 AIzaSyDsluvxARYqfABbe5-????????bzw
 ctrlvleaderboard.firebaseapp.com
 https://ctrlvleaderboard.firebaseio.com
@@ -29,6 +29,7 @@ ctrlvleaderboard
 ctrlvleaderboard.appspot.com
 58050??????
 1:?????????25:web:d????????????????90524
+```
 ------------
 ## Step 3: Arcade PC Setup
 1. Inside Registration PC ctrlVLeaderboard folder, copy the file "Arcade PC" onto a USB drive or Google drive
