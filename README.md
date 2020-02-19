@@ -18,7 +18,7 @@
  1. your text file should now include an ApiKey, authDomain, DatabaseUrl, projectId, etc.
 ------------
 ## Step 2: Registration PC Setup
-1.download this repository
+#### download this repository
 1. inside both FirebaseContents.config folders(ctrlvleaderboard/firebaseContents.config,ctrlvleaderboard/Arcade PC/firebaseContents.config) input your firebase credentials inside: 
 1. it should look like this:
 ```
