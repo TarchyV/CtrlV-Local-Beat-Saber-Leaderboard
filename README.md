@@ -33,7 +33,7 @@ ctrlvleaderboard.appspot.com
 ------------
 ## Step 3: Arcade PC Setup
 1. Inside Registration PC ctrlVLeaderboard folder, copy the file "Arcade PC" onto a USB drive or Google drive
-2. On the Arcade PC's drop the file into Users/%UserName%/Leaderboard 
+2. On the Arcade PC's drop the contents of the file into Users/%UserName%/Leaderboard 
 3. When beatsaber is running this file will grab the scores
 ------------
 ## Step 3: Local Server Setup (Optional)
