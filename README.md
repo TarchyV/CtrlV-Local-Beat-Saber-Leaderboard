@@ -35,7 +35,8 @@ ctrlvleaderboard.appspot.com
 1. Inside Registration PC ctrlVLeaderboard folder, copy the file "Arcade PC" onto a USB drive or Google drive
 2. On the Arcade PC's drop the contents of the file into your Arcade PC.
 3. It is best to set up BSChecker.exe to run on startup. This can be done through the following steps:
-  i. Press "Windows Key" + "R", inside the run box type in "shell:startup" and drop the BSChecker.exe file inside that folder.
+  i. First, Create a shortcut of the BSChecker.exe by right clicking on it and pressing "create shortcut"
+  i. Press "Windows Key" + "R", inside the run box type in "shell:startup" and drop the BSChecker.exe shortcut file inside that folder.
 3. When beatsaber is running this file will grab the scores
 ------------
 ## Step 3: Local Server Setup (Optional)
