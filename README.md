@@ -1,7 +1,7 @@
 # **Local Beat Saber Leaderboard**
 #### (Installation & Setup) 
 ##### Thomas Vallee 2020&copy;
-![Preview Image](https://github.com/TarchyV/CtrlV-Local-Beat-Saber-Leaderboard/assets/Preview.png)
+![Preview Image](https://github.com/TarchyV/CtrlV-Local-Beat-Saber-Leaderboard/blob/master/ctrlvleaderboard/assets/Preview.png)
 ------------
 ## Step 1: Firebase Setup
 
