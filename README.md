@@ -40,6 +40,7 @@ ctrlvleaderboard.appspot.com
 3. When beatsaber is running this file will grab the scores
 ------------
 ## Step 3: Local Server Setup (Optional)
+## THESE FILES NEED TO BE HOSTED FOR IT TO FUNCTION PROPERLY
 ### You can use these files and host them however you want, but for local hosting i found this to be the best way.
 1. Download XAMPP
 2. You only need to download the Apache service
